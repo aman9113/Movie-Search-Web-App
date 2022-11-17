@@ -35,8 +35,8 @@ mongo
 use moviesapp
 db.users.update({username: 'user_name'}, {$set: {admin: true}})
 ```
-![Screenshot 2022-07-12 at 1 40 48 AM]()
+![Screenshot 2022-07-12 at 1 40 48  AM]()
 
-![Screenshot 2022-07-12 at 1 40 56 AM]()
+![Screenshot 2022-07-12 at 1 40 56  AM]()
 
-![Screenshot 2022-07-12 at 1 41 02 AM]()
+![Screenshot 2022-07-12 at 1 41 02  AM]()
